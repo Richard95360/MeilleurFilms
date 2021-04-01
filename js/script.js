@@ -124,7 +124,7 @@ for (var index = 0; index < filmData.length; index++) {
             //partie selection2 est vide 
             select2.insertBefore(film, select2Child[0]);
         }else {
-            alert("Désolé vous avez déja choisi deux film")
+            alert("Désolé vous avez déja choisi deux films")
         }
        // console.log(select2Child);
 
